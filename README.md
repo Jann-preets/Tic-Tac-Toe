@@ -1,0 +1,1 @@
+This project is part of my Web Development Internship at Prodigy InfoTech. The Tic-Tac-Toe Web App is a simple yet interactive game built using HTML, CSS, and JavaScript, allowing two players to compete while tracking the game state and determining winners.
